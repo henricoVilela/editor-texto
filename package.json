@@ -1,0 +1,19 @@
+{
+  "name": "simple-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.0.4"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.1.2"
+  }
+}
